@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "205697927984",
+    "firebase_url": "https://my-sms-app-2e910.firebaseio.com",
+    "project_id": "my-sms-app-2e910",
+    "storage_bucket": "my-sms-app-2e910.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205697927984:android:98a3d50aa64dfa53",
+        "android_client_info": {
+          "package_name": "com.blogspot.freedownloadingblog.sms.spammer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205697927984-ag7r4p5aai2abcag6poj70dl16uqeq8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH1JeQyYcANhMK7Ki9YeIm3Laas1KVKJs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
